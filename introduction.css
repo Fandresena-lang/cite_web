@@ -1,0 +1,23 @@
+.btn{
+     background: linear-gradient(red, gray, blue, green);
+    color: none;
+    border-radius: 10px;
+    transition: 0.4s;
+    padding: 20px 25px;
+
+}
+.btn:hover{
+    background-color: bleu;
+    transform: scale(1.5);
+}
+h1{
+    color: rgb(184, 49, 12);
+}
+p{
+    color: green;
+}
+body{
+    text-align: center;
+     background: url("fguru.jpg");
+     font-size: 200%;
+}

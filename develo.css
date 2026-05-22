@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(rgb(21, 114, 214), rgb(225, 229, 226), blue, green);
+    text-align: center;
+    font-weight: 900;
+}
+h1{
+    color: rgb(184, 49, 12);
+}
+h3{
+    color: aqua;
+}
+p{
+    color: darkgoldenrod;
+}
+img{
+    width: 320px;
+    height: 200px;
+}
+ol{
+    color: darkgoldenrod;
+}
+.btn{
+     background: linear-gradient(red, rgb(197, 240, 5), blue, green);
+    color: none;
+    border-radius: 10px;
+    transition: 0.4s;
+    padding: 20px 25px;
+}
+.btn:hover{
+    background-color: bleu;
+    transform: scale(1.5);
+}
